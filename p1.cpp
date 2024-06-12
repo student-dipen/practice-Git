@@ -6,5 +6,6 @@ int main(){
     cout<<"Enter number:"<<endl;
     cin>>a;
     cout<<"The entered numvber is:"<<a<<endl;
+    cout<<"completed succesfully";
     return 0;
 }
